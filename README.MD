@@ -23,3 +23,4 @@ World Development Indicators – World Bank: https://data.worldbank.org/indicato
 
 ## Links
 - Medium article: https://medium.com/@abir6864/extracting-mortality-trends-using-pca-and-arima-an-actuarial-case-study-of-bangladesh-847ee0643023?sk=0055aa29cac8ceeb03e45b35d17fdcca
+![ARIMA Forecast](Arima%20Model.jpg)
