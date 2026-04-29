@@ -19,7 +19,7 @@ This project analyzes long-term mortality trends in Bangladesh using crude death
 Python, pandas, sklearn, statsmodels, matplotlib
 
 ## Data Source
-World Development Indicators – World Bank
+World Development Indicators – World Bank: https://data.worldbank.org/indicator/SP.DYN.CDRT.IN?locations=BD
 
 ## Links
 - Medium article: https://medium.com/@abir6864/extracting-mortality-trends-using-pca-and-arima-an-actuarial-case-study-of-bangladesh-847ee0643023?sk=0055aa29cac8ceeb03e45b35d17fdcca
